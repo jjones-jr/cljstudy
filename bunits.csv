@@ -1,0 +1,44 @@
+Unit,Conversion,Factor
+Inches,Feet,0.0833
+Inches,Millimeters,25.4
+Feet,Inches,12
+Feet,Yards,0.3333
+Yards,Feet,3
+Sq. Inches,Sq. Feet,3
+Sq. Feet,Sq. Inches,144
+Sq. Feet,Sq. Yards,0.11111
+Sq. Yards,Sq. Feet,9
+Cu. Inches,Cu. Feet,0.00058
+Cu. Feet,Cu. Inches,1728
+Cu. Feet,Cu. Yards,0.03703
+Cu. Yards,Cu. Feet,27
+Cu. Inches,Gallons,0.00433
+Cu. Feet,Gallons,7.48
+Gallons,Cu. Inches,231
+Gallons,Cu. Feet,0.1337
+Gallons,Lbs. of Water,8.337
+Lbs. of Water,Gallons,0.12004
+Ounces,Lbs.,0.0625
+Lbs.,Ounces,16
+In. of Water,Lbs. per Sq. In.,0.03609
+In. of Water,In. of Mercury,0.0736
+In. of Water,Ounces per Sq. In.,0.578
+In. of Water,Lbs. per Sq. Ft.,5.2
+In. of Mercury,In. of Water,13.57
+In. of Mercury,Ft. of Water,1.131
+In. of Mercury,Lbs. per Sq. In.,0.4898
+Ounces per Sql Inch,In. of Mercury,0.17
+Ounces per Sql Inch,In. of Water,1.73
+Lbs. per Sq. Inch,In. of Water,27.71
+Lbs. per Sq. Inch,Ft. of Water,2.309
+Lbs. per Sq. Inch,In. of Mercury,27.71
+Lbs. per Sq. Inch,Atmosphere,6805
+Ft of Water,Lbs. per Sq. Inch,0.4331
+Ft. of Water,Lbs. per Sq. Ft.,62
+Ft. of Water,In. of Mercury,0.8843
+Atmosphere,Lbs. per Sq. Inch,14.7
+Atmosphere,In. of Mercury,29.92
+Atmosphere,Ft of Water,34
+Long Tons,Lbs.,2240
+Short Tons,Lbs.,2000
+Short Tons,Long Tons,0.89
